@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214242900706",
+    "project_id": "stand-app-fce12",
+    "storage_bucket": "stand-app-fce12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214242900706:android:f4cac42b6acfba7f4ffcbb",
+        "android_client_info": {
+          "package_name": "com.run.standapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfS158ah9cq_GY7qOAQNWfDn9utsG7Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
